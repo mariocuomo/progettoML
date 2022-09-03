@@ -9,7 +9,7 @@ It is inspired from this [paper](https://www.degruyter.com/document/doi/10.1515/
 
 - [Project2](https://github.com/mariocuomo/progettoML/tree/main/project2)<br>
 Rather than extracting features from the images and creating a simplified dataset, the images are directly input to the system using a convolutional neural network - VGG16.<br>
-Trained networks are available [here](https://uniroma3-my.sharepoint.com/:f:/g/personal/mar_cuomo3_stud_uniroma3_it/Ekvxfk9ODT9HrwGsEC1zmr4B-loRjMFOHPMShadbfeRrhA?e=P1S6jX)
+Trained networks are available [here](https://uniroma3-my.sharepoint.com/:f:/g/personal/mar_cuomo3_stud_uniroma3_it/Ekvxfk9ODT9HrwGsEC1zmr4B-loRjMFOHPMShadbfeRrhA?e=P1S6jX).
 
 ---
 
