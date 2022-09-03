@@ -5,5 +5,5 @@ Rather than extracting features from the images and creating a simplified datase
 Dataset is available [here](https://www.kaggle.com/datasets/tanlikesmath/diabetic-retinopathy-resized).
 
 <div align="center">
-  <img src="https://github.com/mariocuomo/MachineLearningProjects/blob/main/imgs/project2.png" width="400">
+  <img src="https://github.com/mariocuomo/progettoML/blob/main/imgs/project2.png" width="400">
 </div>
